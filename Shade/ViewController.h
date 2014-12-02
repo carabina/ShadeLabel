@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Shade.h"
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet Shade *shadeLabel;
 
+- (IBAction)sliderValueDidChanged:(UISlider *)sender;
 
 @end
 

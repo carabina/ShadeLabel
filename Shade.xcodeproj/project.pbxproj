@@ -14,6 +14,7 @@
 		BFEDDD041A2E3D6F0013D0F0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFEDDD031A2E3D6F0013D0F0 /* Images.xcassets */; };
 		BFEDDD071A2E3D6F0013D0F0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFEDDD051A2E3D6F0013D0F0 /* LaunchScreen.xib */; };
 		BFEDDD131A2E3D6F0013D0F0 /* ShadeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDD121A2E3D6F0013D0F0 /* ShadeTests.m */; };
+		BFEDDD221A2E3E300013D0F0 /* Shade.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDD211A2E3E300013D0F0 /* Shade.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		BFEDDD0C1A2E3D6F0013D0F0 /* ShadeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShadeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFEDDD111A2E3D6F0013D0F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFEDDD121A2E3D6F0013D0F0 /* ShadeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShadeTests.m; sourceTree = "<group>"; };
+		BFEDDD201A2E3E300013D0F0 /* Shade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shade.h; sourceTree = "<group>"; };
+		BFEDDD211A2E3E300013D0F0 /* Shade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Shade.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				BFEDDD031A2E3D6F0013D0F0 /* Images.xcassets */,
 				BFEDDD051A2E3D6F0013D0F0 /* LaunchScreen.xib */,
 				BFEDDCF61A2E3D6F0013D0F0 /* Supporting Files */,
+				BFEDDD201A2E3E300013D0F0 /* Shade.h */,
+				BFEDDD211A2E3E300013D0F0 /* Shade.m */,
 			);
 			path = Shade;
 			sourceTree = "<group>";
@@ -222,6 +227,7 @@
 				BFEDDCFF1A2E3D6F0013D0F0 /* ViewController.m in Sources */,
 				BFEDDCFC1A2E3D6F0013D0F0 /* AppDelegate.m in Sources */,
 				BFEDDCF91A2E3D6F0013D0F0 /* main.m in Sources */,
+				BFEDDD221A2E3E300013D0F0 /* Shade.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
