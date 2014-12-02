@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BFB3F7861A2E4A2A0060D853 /* star1.png in Resources */ = {isa = PBXBuildFile; fileRef = BFB3F7851A2E4A2A0060D853 /* star1.png */; };
 		BFEDDCF91A2E3D6F0013D0F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDCF81A2E3D6F0013D0F0 /* main.m */; };
 		BFEDDCFC1A2E3D6F0013D0F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDCFB1A2E3D6F0013D0F0 /* AppDelegate.m */; };
 		BFEDDCFF1A2E3D6F0013D0F0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDCFE1A2E3D6F0013D0F0 /* ViewController.m */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BFB3F7851A2E4A2A0060D853 /* star1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star1.png; sourceTree = "<group>"; };
 		BFEDDCF31A2E3D6F0013D0F0 /* Shade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shade.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFEDDCF71A2E3D6F0013D0F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFEDDCF81A2E3D6F0013D0F0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				BFEDDCF61A2E3D6F0013D0F0 /* Supporting Files */,
 				BFEDDD201A2E3E300013D0F0 /* Shade.h */,
 				BFEDDD211A2E3E300013D0F0 /* Shade.m */,
+				BFB3F7851A2E4A2A0060D853 /* star1.png */,
 			);
 			path = Shade;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				BFEDDD021A2E3D6F0013D0F0 /* Main.storyboard in Resources */,
 				BFEDDD071A2E3D6F0013D0F0 /* LaunchScreen.xib in Resources */,
 				BFEDDD041A2E3D6F0013D0F0 /* Images.xcassets in Resources */,
+				BFB3F7861A2E4A2A0060D853 /* star1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +422,7 @@
 				BFEDDD181A2E3D6F0013D0F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BFEDDD191A2E3D6F0013D0F0 /* Build configuration list for PBXNativeTarget "ShadeTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +431,7 @@
 				BFEDDD1B1A2E3D6F0013D0F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

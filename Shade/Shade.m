@@ -39,7 +39,7 @@
     self.shadowColor = [UIColor blackColor];
     self.shadowOffset = CGSizeZero;
     self.shadeRadius = 5;
-    self.shadeOpacity = 0.5f;
+    self.shadeOpacity = 0.7f;
 }
 
 - (UIColor *)colorOfPoint:(CGPoint)point{

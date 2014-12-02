@@ -11,6 +11,7 @@
 
 @interface ViewController : UIViewController
 @property (weak, nonatomic) IBOutlet Shade *shadeLabel;
+@property (weak, nonatomic) IBOutlet UIImageView *backgroundImageView;
 
 - (IBAction)sliderValueDidChanged:(UISlider *)sender;
 
