@@ -1,5 +1,4 @@
-
-
+![alt tag](https://raw.githubusercontent.com/brickoJun/ShadeLabel/master/Shade/iOS%20Simulator%20Screen%20Shot%20Dec%203,%202014,%203.30.47%20AM.png)
 
 ShadeLabel
 ==========
