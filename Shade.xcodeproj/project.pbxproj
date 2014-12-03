@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BFB3F7861A2E4A2A0060D853 /* star1.png in Resources */ = {isa = PBXBuildFile; fileRef = BFB3F7851A2E4A2A0060D853 /* star1.png */; };
+		BFB3F78A1A2EBB400060D853 /* iOS Simulator Screen Shot Dec 3, 2014, 3.30.47 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = BFB3F7891A2EBB400060D853 /* iOS Simulator Screen Shot Dec 3, 2014, 3.30.47 AM.png */; };
 		BFEDDCF91A2E3D6F0013D0F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDCF81A2E3D6F0013D0F0 /* main.m */; };
 		BFEDDCFC1A2E3D6F0013D0F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDCFB1A2E3D6F0013D0F0 /* AppDelegate.m */; };
 		BFEDDCFF1A2E3D6F0013D0F0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEDDCFE1A2E3D6F0013D0F0 /* ViewController.m */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		BFB3F7851A2E4A2A0060D853 /* star1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star1.png; sourceTree = "<group>"; };
+		BFB3F7891A2EBB400060D853 /* iOS Simulator Screen Shot Dec 3, 2014, 3.30.47 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot Dec 3, 2014, 3.30.47 AM.png"; sourceTree = "<group>"; };
 		BFEDDCF31A2E3D6F0013D0F0 /* Shade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shade.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFEDDCF71A2E3D6F0013D0F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFEDDCF81A2E3D6F0013D0F0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				BFEDDD201A2E3E300013D0F0 /* Shade.h */,
 				BFEDDD211A2E3E300013D0F0 /* Shade.m */,
 				BFB3F7851A2E4A2A0060D853 /* star1.png */,
+				BFB3F7891A2EBB400060D853 /* iOS Simulator Screen Shot Dec 3, 2014, 3.30.47 AM.png */,
 			);
 			path = Shade;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				BFEDDD071A2E3D6F0013D0F0 /* LaunchScreen.xib in Resources */,
 				BFEDDD041A2E3D6F0013D0F0 /* Images.xcassets in Resources */,
 				BFB3F7861A2E4A2A0060D853 /* star1.png in Resources */,
+				BFB3F78A1A2EBB400060D853 /* iOS Simulator Screen Shot Dec 3, 2014, 3.30.47 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
