@@ -1,7 +1,11 @@
+
+
+
 ShadeLabel
 ==========
 
-A UILabel library that automatically drops shadow if it's backgroundColor get's brighter.
+A UILabel library that automatically drops shadow if it's backgroundColor or superview's background (if your label backgroundColor is clearColor) get's brighter.
+
 If you are making an app which contain a gallery of colorful pictures with overlay UILabel on top all of it, this will be helpful to you.
 
 Usage
